@@ -1,0 +1,9 @@
+{
+  "name": "nodejs-helloworld",
+  "version": "0.0.0",
+  "description": "nodejs-helloworld",
+  "main": "app.js",
+  "author": {
+    "name": "Shifat"
+  }
+}
