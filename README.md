@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-# nodejs-helloworld
-=======
-﻿# nodejs-helloworld
+# NodeJS Hello World Sample
 
-
->>>>>>> Add project files.
+It is created in Visual Studio 2017
